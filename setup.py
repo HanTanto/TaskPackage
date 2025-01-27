@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="TaskPackage",
+    name="TaskPackage_",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[],
